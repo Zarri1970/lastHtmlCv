@@ -1,0 +1,29 @@
+h1,h2,h3,p
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+img.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+h1
+{
+    border: 3px blue solid; 
+    box-shadow: 6px 6px 6px black;
+    border-radius: 20px / 10px;
+    
+   }
+
+li
+{
+    color: rgb(0, 38, 255)
+}
+
+body
+{
+   background:url("./images/bg2.jpg");
+}
+
